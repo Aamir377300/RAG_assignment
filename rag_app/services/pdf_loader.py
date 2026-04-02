@@ -1,6 +1,6 @@
 from pypdf import PdfReader
 
-file_path = "/Users/aamirbelalkhan/Desktop/RAG_Assignment/data/pdfs/investment_book.pdf"
+file_path = "/Users/aamirbelalkhan/Desktop/RAG/RAG_assignment/data/pdfs/investment_book.pdf"
 
 def extract_text_from_pdf(file_path):
     reader = PdfReader(file_path)

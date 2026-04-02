@@ -1,0 +1,7 @@
+pypdf
+sentence-transformers
+numpy
+requests
+python-dotenv
+flask
+flask-cors
